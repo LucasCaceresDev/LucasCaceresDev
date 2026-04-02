@@ -35,7 +35,7 @@
 
 | 🧠 Backend (Main Focus) | 🌐 Frontend |
 |------------------------|-------------|
-| <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,python"/> | <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap"/> |
+| <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,npm,java,python,django"/> | <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap"/> |
 
 <table>
   <tr>
