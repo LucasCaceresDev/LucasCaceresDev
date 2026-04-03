@@ -60,6 +60,6 @@
 
 ## 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,github"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,git,github"/>
 
 </div>
