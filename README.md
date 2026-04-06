@@ -35,7 +35,7 @@
 
 | 🧠 Backend (Main Focus) | 🌐 Frontend |
 |------------------------|-------------|
-| <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,npm,java,python,django"/> | <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap"/> |
+| <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,nodejs,express,java,python,django"/> | <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap"/> |
 
 <table>
   <tr>
@@ -45,11 +45,11 @@
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=kotlin" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" />
+      <img src="https://skills.syvixor.com/api/icons?perline=15&i=androidstudio" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" />
+      <img src="https://skills.syvixor.com/api/icons?i=sqlserver" />
     </td>
   </tr>
 </table>
@@ -60,6 +60,6 @@
 
 ## 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,git,github"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,npm,git,github"/>
 
 </div>
