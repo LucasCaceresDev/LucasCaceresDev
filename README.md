@@ -61,6 +61,6 @@
 ## 🛠️ Tools
 
 <img src="https://skills.syvixor.com/api/icons?i=uml,mermaid" />
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,npm,git,github"/>
+<img src="https://skillicons.dev/icons?i=postman,npm,git,github"/>
 
 </div>
